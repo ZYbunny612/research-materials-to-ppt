@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研材料到可编辑PPT"
+  short_description: "从原始材料与证据出发，逐页编写提示词、生成科研图并重建真正可编辑的PPT"
+  default_prompt: "使用 $research-materials-to-ppt，将我的原始材料整理为研究内容，经逐页详细提示词和生成图，制作可编辑科研PPT并保留全部中间产物。"
